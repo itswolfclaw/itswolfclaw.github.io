@@ -1,0 +1,10 @@
+.website-text{
+    background-color: aqua;
+    width:25px;
+    height: 25px;
+    border: solid 3px navy;
+    margin: 20px;
+}
+h1{
+    color: blue;
+}
